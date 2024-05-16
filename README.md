@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<div id="Socials" align="center">
+<a href="https://t.me/Neas1231">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram"/>
+</a>
+</div>
 <!--
 **Neas1231/Neas1231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
