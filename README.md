@@ -1,6 +1,6 @@
 <div style="min-height: 400px">
   <h1 align="center" data-block="15" style="margin: 0px auto;" data-block-type="Text" >Hello Sekai 💮</h1>
-  <p align="center" data-block="16" style="margin-left: auto; margin-right: auto; margin-bottom: 60px;" data-block-type="Text"; font-size: 1.875rem">I am Nikita, python programmer.<br>Trying to reach new horizons in Data Science ​</p>
+  <p align="center" data-block="16" style="margin-left: auto; margin-right: auto; margin-bottom: 60px;" data-block-type="Text"; font-size: 24px;">I am Nikita, python programmer.<br>Trying to reach new horizons in Data Science ​</p>
 </div>
 
 <div id="Socials" align="center">
