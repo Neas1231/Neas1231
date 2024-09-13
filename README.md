@@ -11,6 +11,6 @@
 
 ### A little bit about me
 - 🔭 I’m currently studying in college
-- 🌱 I'm learning to work with neural networks
+- 🌱 I'm learning to create neural network models
 - 🤔 Love to play games
 
